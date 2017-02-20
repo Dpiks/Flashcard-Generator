@@ -20,4 +20,5 @@ from the directory where the repo was cloned run the app with the command
 node flashCardAdmin.js
 
 Follow the prompts thereafter. 
+the admin password is abcd123
 

@@ -1,0 +1,24 @@
+{
+  "name": "Flashcard-Generator",
+  "version": "1.0.0",
+  "description": "NodeJS -OOP based backend for a basic flashcard application.",
+  "main": "CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dpiks/Flashcard-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dpiks/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Dpiks/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.1",
+    "request": "^2.79.0"
+  }
+}
